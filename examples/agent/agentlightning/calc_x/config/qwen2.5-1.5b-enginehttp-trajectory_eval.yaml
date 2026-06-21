@@ -1,5 +1,6 @@
 defaults:
   - qwen2.5-1.5b-enginehttp-trajectory
+  - _self_
 
 eval: true
 

@@ -1,5 +1,6 @@
 defaults:
   - override hydra/job_logging: stdout
+  - _self_
 
 hydra:
   run:

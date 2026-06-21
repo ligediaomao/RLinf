@@ -1,5 +1,6 @@
 defaults:
   - base_calc_x
+  - _self_
 
 runner:
   logger:
